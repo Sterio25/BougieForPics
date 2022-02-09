@@ -62,15 +62,14 @@ header h1 {
     list-style: none;
 }
 .link li  {
-    padding: 10px;
-    font-size: 30px;
+    padding: 0px;
     justify-content: center;
     display: flex;
     
 }
 .link a{
-    font-size: 35px;
-    width: 320px;
+    font-size: 30px;
+    width: 280px;
     display: flex;
     justify-content: space-around;
 
@@ -94,7 +93,7 @@ ul li a {
 ul img {
     border: 2px solid black;
     border-radius: 30px;
-    width: 50px; 
+    width: 40px; 
     
 }
  
@@ -169,7 +168,7 @@ box-shadow:0px -2px 17px 0px #000000 ;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    font-size: 11px;
+    font-size: 7px;
     background-size: cover;
 
 
